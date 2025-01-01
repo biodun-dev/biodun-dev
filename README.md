@@ -1,6 +1,6 @@
 # Hi there, I'm Abiodun 👋
 
-🚀 **Software Engineer** specializing in **TypeScript**, **JavaScript**, and **Blockchain Development**.
+🚀 **Fullstack Software Engineer** specializing in **TypeScript**, **JavaScript**, and **Blockchain Development**.
 
 🌱 I’m currently exploring advanced **AI integrations** and contributing to **open-source blockchain projects**.
 
