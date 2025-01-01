@@ -17,11 +17,13 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-green?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-gray?style=flat&logo=c)
+![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java)
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-gray?style=flat&logo=express)
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
 
 ### Blockchain & Web3
@@ -36,31 +38,9 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql)
 
----
-
-## 🌟 Featured Projects
-
-### 🔗 [Sorting Algorithms](https://github.com/biodun-dev/sorting_algorithms)
-**Description:** A collection of optimized sorting algorithms implemented in C for high-performance use cases.
-
-### 🔗 [Blockchain ID Verification](https://github.com/biodun-dev/blockchain-id-verification)
-**Description:** A secure ID verification platform leveraging blockchain technology for decentralized trust.
-
-### 🔗 [Lead Generation SaaS](https://github.com/biodun-dev/lead-generation-Saas)
-**Description:** A lead generation system for B2B businesses, featuring advanced analytics and scalable architecture.
-
-### 🔗 [FinTech App](https://github.com/biodun-dev/fintech)
-**Description:** A modern financial app built using JavaScript, featuring budgeting tools and user-friendly UI.
 
 ---
 
-## 📊 GitHub Stats
-
-![Abiodun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=biodun-dev&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biodun-dev&layout=compact&theme=radical)
-
----
 
 ## 📬 Let's Connect!
 
