@@ -10,11 +10,6 @@ I'm a software engineer focused on building scalable web and mobile applications
 - **Databases:** PostgreSQL, MySQL, MongoDB
 - **Infrastructure:** Redis, Docker, Microservices
 
-## Projects
-- **GYWDE:** Vendor-consumer marketplace platform
-- **SAWL:** Edtech cohort management system
-- **EasyRoundup:** Real-time event detection for Nigerian Premier League
-- **BananaCrystal:** P2P currency exchange and USD debit card platform
 
 ## Contact
 - **Portfolio:** [biodun-dev.vercel.app](https://biodun-dev.vercel.app)
