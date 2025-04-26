@@ -14,4 +14,4 @@ I'm a software engineer focused on building scalable web and mobile applications
 ## Contact
 - **Portfolio:** [biodun-dev.vercel.app](https://biodun-dev.vercel.app)
 - **LinkedIn:** [linkedin.com/in/toheeb-abdullahi-9b5682300](https://linkedin.com/in/toheeb-abdullahi-9b5682300)
-- **GitHub:** [github.com/biodun-dev](https://github.com/biodun-dev)
+
