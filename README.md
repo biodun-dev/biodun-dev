@@ -1,29 +1,22 @@
-Hi, I'm Toheeb Abiodun Abdullahi
-I'm a Software Engineer and Full-Stack Developer passionate about building scalable web and mobile applications.
+# Toheeb Abiodun Abdullahi
 
-I specialize in:
+**Software Engineer | Full-Stack Developer**
 
-Backend: Node.js, NestJS, Ruby on Rails
+I'm a software engineer focused on building scalable web and mobile applications.
 
-Frontend: React.js, React Native, Next.js
+## Skills
+- **Backend:** Node.js, NestJS, Ruby on Rails
+- **Frontend:** React.js, React Native, Next.js
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Infrastructure:** Redis, Docker, Microservices
 
-Databases: PostgreSQL, MySQL, MongoDB
+## Projects
+- **GYWDE:** Vendor-consumer marketplace platform
+- **SAWL:** Edtech cohort management system
+- **EasyRoundup:** Real-time event detection for Nigerian Premier League
+- **BananaCrystal:** P2P currency exchange and USD debit card platform
 
-Infrastructure: Redis, Docker, Microservices
-
-I enjoy solving real-world problems through clean code, scalable systems, and great user experiences.
-
-What I'm Working On
-Building consumer-facing and fintech platforms
-
-Real-time systems and scalable backend architectures
-
-Exploring machine learning applications in sports analytics
-
-Let's Connect
-Portfolio: biodun-dev.vercel.app
-
-LinkedIn: linkedin.com/in/toheeb-abdullahi-9b5682300
-
-GitHub: github.com/biodun-dev
-
+## Contact
+- **Portfolio:** [biodun-dev.vercel.app](https://biodun-dev.vercel.app)
+- **LinkedIn:** [linkedin.com/in/toheeb-abdullahi-9b5682300](https://linkedin.com/in/toheeb-abdullahi-9b5682300)
+- **GitHub:** [github.com/biodun-dev](https://github.com/biodun-dev)
