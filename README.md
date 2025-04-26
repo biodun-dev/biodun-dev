@@ -8,7 +8,7 @@ I'm a software engineer focused on building scalable web and mobile applications
 - **Backend:** Node.js, NestJS, Ruby on Rails
 - **Frontend:** React.js, React Native, Next.js
 - **Databases:** PostgreSQL, MySQL, MongoDB
-- **Infrastructure:** Redis, Docker, Microservices
+- **Infrastructure:** Redis, Docker, Microservices,AWS
 
 
 ## Contact
