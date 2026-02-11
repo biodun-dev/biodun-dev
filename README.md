@@ -1,14 +1,8 @@
 <div align="center">
  
-  <img src="https://komarev.com/ghpvc/?username=biodun-dev&style=flat-square" alt="Profile Views" />
- 
-  <br/><br/>
- 
-  <img width="390" src="https://streak-stats.demolab.com?user=biodun-dev&theme=dark" alt="GitHub Streak" />
- 
-  <br/>
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=biodun-dev&hide_progress=true&hide_title=true&layout=normal&theme=dark" alt="Top Languages" />
+  ![](https://komarev.com/ghpvc/?username=biodun-dev&style=flat-square)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=paulthadev&theme=dark&hide_border=true&border_radius=10&background=45%2C000000%2C050826&ring=E06F27&sideLabels=E06F27&currStreakLabel=E06F27)](https://git.io/streak-stats)
 
 </div>
 
