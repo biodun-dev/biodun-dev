@@ -12,3 +12,5 @@
 - **Portfolio:** [biodun-dev.vercel.app](https://biodun-dev.vercel.app)
 - **LinkedIn:** [linkedin.com/in/toheeb-abiodun-abdullahi](https://www.linkedin.com/in/toheeb-abiodun-abdullahi)
 - **Medium:** [medium.com/@biodunbio14](https://medium.com/@biodunbio14)
+
+[![committers.top badge](https://user-badge.committers.top/nigeria/USERNAME.svg)](https://user-badge.committers.top/nigeria/USERNAME)
