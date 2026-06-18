@@ -9,6 +9,6 @@
 ---
 
 ## Contact
-- **Portfolio:** [biodun-dev.vercel.app](https://abiodunabdullahi.com)
+- **Portfolio:** [abiodunabdullahi.com](https://abiodunabdullahi.com)
 - **LinkedIn:** [linkedin.com/in/toheeb-abiodun-abdullahi](https://www.linkedin.com/in/toheeb-abiodun-abdullahi)
-- **Medium:** [medium.com/@biodunbio14](https://medium.com/@abiodunabdullahi)
+- **Medium:** [medium.com/@abiodunabdullahi](https://medium.com/@abiodunabdullahi)
