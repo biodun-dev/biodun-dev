@@ -12,5 +12,3 @@
 - **Portfolio:** [biodun-dev.vercel.app](https://abiodunabdullahi.com)
 - **LinkedIn:** [linkedin.com/in/toheeb-abiodun-abdullahi](https://www.linkedin.com/in/toheeb-abiodun-abdullahi)
 - **Medium:** [medium.com/@biodunbio14](https://medium.com/@abiodunabdullahi)
-
-
