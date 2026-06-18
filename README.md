@@ -9,8 +9,8 @@
 ---
 
 ## Contact
-- **Portfolio:** [biodun-dev.vercel.app](https://biodun-dev.vercel.app)
+- **Portfolio:** [biodun-dev.vercel.app](https://abiodunabdullahi.com)
 - **LinkedIn:** [linkedin.com/in/toheeb-abiodun-abdullahi](https://www.linkedin.com/in/toheeb-abiodun-abdullahi)
-- **Medium:** [medium.com/@biodunbio14](https://medium.com/@biodunbio14)
+- **Medium:** [medium.com/@biodunbio14](https://medium.com/@abiodunabdullahi)
 
-[![committers.top badge](https://user-badge.committers.top/nigeria/USERNAME.svg)](https://user-badge.committers.top/nigeria/biodun-dev)
+
