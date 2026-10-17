@@ -10,5 +10,5 @@
 
 ## Contact
 - **Portfolio:** [abiodunabdullahi.com](https://abiodunabdullahi.com)
-- **LinkedIn:** [linkedin.com/in/toheeb-abiodun-abdullahi](https://www.linkedin.com/in/toheeb-abiodun-abdullahi)
+- **LinkedIn:** [linkedin.com/in/abiodun-abdullahi](https://www.linkedin.com/in/abiodun-abdullahi)
 - **Medium:** [medium.com/@abiodunabdullahi](https://medium.com/@abiodunabdullahi)
